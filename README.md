@@ -49,9 +49,32 @@ Lorsqu'un projet Maven est construit avec un package de "jar", Maven compilera l
 
 <img width="425" alt="i11" src="https://github.com/ACHRAFHED/TP2JEE/assets/102471232/4cfbb12c-850f-40b0-b2e7-063b12b81444">
 
+
+
+
+
+
+
+
 <img width="363" alt="i1" src="https://github.com/ACHRAFHED/TP2JEE/assets/102471232/6e95860a-f77b-4e8c-8ffa-d6f37703b048">
 
+
+
+
+
+
+
+
+
 <img width="547" alt="i2" src="https://github.com/ACHRAFHED/TP2JEE/assets/102471232/6c6ed53d-f06d-4c64-874c-e77c7641f10d">
+
+
+
+
+
+
+
+
 
 <img width="609" alt="i3" src="https://github.com/ACHRAFHED/TP2JEE/assets/102471232/49918bcd-3650-44c7-8be7-2fb0af0b7c72">
 
